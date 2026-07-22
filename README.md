@@ -6,6 +6,7 @@ All my LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -14,10 +15,12 @@ All my LeetCode Solutions
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
