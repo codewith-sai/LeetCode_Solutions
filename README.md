@@ -12,6 +12,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ All my LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -36,4 +38,8 @@ All my LeetCode Solutions
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
