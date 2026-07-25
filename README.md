@@ -32,6 +32,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -42,4 +43,5 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
