@@ -26,11 +26,13 @@ All my LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -42,6 +44,7 @@ All my LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
