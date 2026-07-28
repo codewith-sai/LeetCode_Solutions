@@ -6,6 +6,7 @@ All my LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -16,6 +17,7 @@ All my LeetCode Solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -33,6 +35,7 @@ All my LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
