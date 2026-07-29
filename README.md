@@ -36,6 +36,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -56,4 +57,12 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
