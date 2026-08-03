@@ -13,6 +13,7 @@ All my LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -31,6 +32,7 @@ All my LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -69,6 +71,7 @@ All my LeetCode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -78,4 +81,12 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
