@@ -51,6 +51,7 @@ All my LeetCode Solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3908-valid-digit-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3908-valid-digit-number) |
 ## Number Theory
 |  |
