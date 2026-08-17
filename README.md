@@ -39,6 +39,7 @@ All my LeetCode Solutions
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,8 +92,13 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
