@@ -24,6 +24,7 @@ All my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
@@ -36,6 +37,7 @@ All my LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +68,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -87,6 +90,7 @@ All my LeetCode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
