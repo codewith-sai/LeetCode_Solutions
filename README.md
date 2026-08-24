@@ -41,6 +41,7 @@ All my LeetCode Solutions
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0682-baseball-game) |
@@ -74,6 +75,7 @@ All my LeetCode Solutions
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
