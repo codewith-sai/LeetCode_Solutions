@@ -105,6 +105,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -123,4 +124,16 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0089-gray-code) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
