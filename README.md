@@ -13,6 +13,7 @@ All my LeetCode Solutions
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ All my LeetCode Solutions
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
