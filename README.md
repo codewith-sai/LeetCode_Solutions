@@ -31,6 +31,7 @@ All my LeetCode Solutions
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -94,6 +95,7 @@ All my LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -145,4 +147,8 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
