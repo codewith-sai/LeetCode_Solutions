@@ -151,4 +151,12 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
