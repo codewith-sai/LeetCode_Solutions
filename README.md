@@ -53,6 +53,7 @@ All my LeetCode Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ All my LeetCode Solutions
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/3908-valid-digit-number) |
 ## Number Theory
 |  |
