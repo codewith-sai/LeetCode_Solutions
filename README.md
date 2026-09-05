@@ -43,6 +43,7 @@ All my LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
@@ -97,6 +98,7 @@ All my LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [1143-longest-common-subsequence](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
