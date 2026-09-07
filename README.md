@@ -10,6 +10,7 @@ All my LeetCode Solutions
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -46,6 +47,7 @@ All my LeetCode Solutions
 | [0118-pascals-triangle](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +63,7 @@ All my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
@@ -83,6 +86,7 @@ All my LeetCode Solutions
 | [0049-group-anagrams](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +131,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
@@ -154,6 +159,7 @@ All my LeetCode Solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Longest Common Subsequence
 |  |
 | ------- |
