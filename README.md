@@ -64,6 +64,7 @@ All my LeetCode Solutions
 | [0070-climbing-stairs](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/codewith-sai/LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
